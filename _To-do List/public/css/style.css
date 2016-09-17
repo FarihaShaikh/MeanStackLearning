@@ -1,0 +1,41 @@
+body{
+    width: 960px;
+    margin: 0 auto;
+    /* 
+        margin-top: 0
+        margin-bottom : 0
+        margin-left: auto
+        margin-right: auto
+    */
+    
+    font-family: 'halvetica','tahoma';
+   
+}
+
+a{
+    text-decoration: none;
+    color: #34495e;
+}
+
+/*PSEUDO CLASS */
+a:hover{
+    color: #000;
+}
+
+.logo, nav, ul{
+    display:inline-block;
+}
+
+nav{
+    float:right;
+    margin-top:20px;
+}
+
+li{
+    list-style:none;
+    display: inline-block;
+    padding-right: 30px;
+}
+
+
+
