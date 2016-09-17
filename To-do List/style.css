@@ -1,0 +1,30 @@
+body
+{
+	background-color : #DC9AF5;	
+	margin-top : 5%;
+	font-family: 'arista','streamer';
+}
+
+#InputSection
+{
+	margin-left : 35%;
+	height : 50px
+}
+
+#btnSubmit
+{
+	width:100px;
+	height:25px;
+}
+
+#txtField
+{
+	display : inline;
+	width: 300px;
+	height: 25px;
+}
+
+#heading
+{
+	background-color : #F5EF9A;
+}
